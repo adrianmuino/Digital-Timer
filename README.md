@@ -19,3 +19,9 @@ You will need to create an account with Xilinx to download the required software
 
 ## Video Demonstration
 [![FPGA Digital Timer](https://img.youtube.com/vi/oacW3tYSKds/0.jpg)](https://www.youtube.com/watch?v=oacW3tYSKds)
+
+## Finite State Machine Diagrams
+![Image of MainFSM](https://octodex.github.com/images/yaktocat.png)
+![Image of addtimeFSM](https://octodex.github.com/images/yaktocat.png)
+![Image of countdownFSM](https://octodex.github.com/images/yaktocat.png)
+![Image of RotatorFSM](https://octodex.github.com/images/yaktocat.png)
