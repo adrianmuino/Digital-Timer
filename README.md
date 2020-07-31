@@ -17,27 +17,19 @@ You will need to create an account with Xilinx to download the required software
 * [Xilinx ISE 14.7 Design Suite](https://www.xilinx.com/member/forms/download/xef.html?filename=Xilinx_ISE_DS_14.7_1015_1.tar)
 * [Elbert V2 Drivers](https://numato.com/wp-content/uploads/2019/06/numatocdcdriver.zip)
 
+## Finite State Machine Diagrams
+![Image of MainFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/MainFSM.png)
+![Image of addtimeFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/addtimeFSM.png)
+![Image of countdownFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/countdownFSM.png)
+![Image of RotatorFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/RotatorFSM.png)
+
+![RotatorFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/RotatorFSM.png){:class="img-responsive"}
+![RotatorFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/RotatorFSM.png){:height="50%" width="50%"}
+![RotatorFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/RotatorFSM.png){:height="700px" width="400px"}
+
 ## Video Demonstration     
 <p align="center">
   <a href="https://www.youtube.com/watch?v=oacW3tYSKds">
          <img class= "img-responsive" width="960" height="540" alt="FPGA Digital Timer" src="https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/Digital%20Timer%20On%20FPGA.png">
   </a>
 </p>
-![Image of RotatorFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/RotatorFSM.png)
-## Finite State Machine Diagrams
-<p align="center">
-  <img width="700" height="458" src="https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/MainFSM.png">
-</p>
-<p align="center">
-  <img width="700" height="365" src="https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/addtimeFSM.png">
-</p>
-<p align="center">
-  <img width="700" height="313" src="https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/countdownFSM.png">
-</p>
-<p align="center">
-  <img width="700" height="230" src="https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/RotatorFSM.png">
-</p>
-
-![RotatorFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/RotatorFSM.png){:class="img-responsive"}
-![RotatorFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/RotatorFSM.png){:height="50%" width="50%"}
-![RotatorFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/RotatorFSM.png){:height="700px" width="400px"}
