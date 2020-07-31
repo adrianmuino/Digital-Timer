@@ -17,10 +17,12 @@ You will need to create an account with Xilinx to download the required software
 * [Xilinx ISE 14.7 Design Suite](https://www.xilinx.com/member/forms/download/xef.html?filename=Xilinx_ISE_DS_14.7_1015_1.tar)
 * [Elbert V2 Drivers](https://numato.com/wp-content/uploads/2019/06/numatocdcdriver.zip)
 
-## Video Demonstration
-<a href="https://www.youtube.com/watch?v=oacW3tYSKds" align="center">
+## Video Demonstration     
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=oacW3tYSKds">
          <img alt="FPGA Digital Timer" src="https://img.youtube.com/vi/oacW3tYSKds/0.jpg">
-      </a>
+  </a>
+</p>
 
 ## Finite State Machine Diagrams
 <p align="center">
