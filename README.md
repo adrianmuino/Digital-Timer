@@ -12,5 +12,6 @@ Embedded custom single-purpose processor implemented in a Xilinx Spartan 3A FPGA
 * [USB 2.0 Cable A-Male to Mini-B](https://www.amazon.com/AmazonBasics-USB-2-0-Cable-Male/dp/B00NH11N5A)
 
 ## Software
+_You will need to create an account with Xilinx to download the required software to replicate this project. Creating an account with Xilinx is **free**_.
 * [Xilinx ISE 14.7 Design Suite](https://www.xilinx.com/member/forms/download/xef.html?filename=Xilinx_ISE_DS_14.7_1015_1.tar)
 * [Elbert V2 Drivers](https://numato.com/wp-content/uploads/2019/06/numatocdcdriver.zip)
