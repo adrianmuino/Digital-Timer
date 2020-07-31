@@ -21,7 +21,7 @@ You will need to create an account with Xilinx to download the required software
 [![FPGA Digital Timer](https://img.youtube.com/vi/oacW3tYSKds/0.jpg)](https://www.youtube.com/watch?v=oacW3tYSKds)
 
 ## Finite State Machine Diagrams
-![Image of MainFSM](https://octodex.github.com/images/yaktocat.png)
-![Image of addtimeFSM](https://octodex.github.com/images/yaktocat.png)
-![Image of countdownFSM](https://octodex.github.com/images/yaktocat.png)
-![Image of RotatorFSM](https://octodex.github.com/images/yaktocat.png)
+![Image of MainFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/MainFSM.png)
+![Image of addtimeFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/addtimeFSM.png)
+![Image of countdownFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/countdownFSM.png)
+![Image of RotatorFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/RotatorFSM.png)
