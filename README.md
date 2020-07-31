@@ -18,4 +18,4 @@ You will need to create an account with Xilinx to download the required software
 * [Elbert V2 Drivers](https://numato.com/wp-content/uploads/2019/06/numatocdcdriver.zip)
 
 ## Video Demonstration
-[![FPGA Digital Timer](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=oacW3tYSKds)
+[![FPGA Digital Timer](https://img.youtube.com/vi/oacW3tYSKds/0.jpg)](https://www.youtube.com/watch?v=oacW3tYSKds)
