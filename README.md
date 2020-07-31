@@ -37,6 +37,7 @@ You will need to create an account with Xilinx to download the required software
 <p align="center">
   <img width="700" height="230" src="https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/RotatorFSM.png">
 </p>
+![Image of RotatorFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/RotatorFSM.png)
 ![RotatorFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/RotatorFSM.png){:class="img-responsive"}
 ![RotatorFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/RotatorFSM.png){:height="50%" width="50%"}
 ![RotatorFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/RotatorFSM.png){:height="700px" width="400px"}
