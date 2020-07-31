@@ -26,7 +26,7 @@ You will need to create an account with Xilinx to download the required software
 
 ## Finite State Machine Diagrams
 <p align="center">
-  <img width="840" height="550" src="https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/MainFSM.png">
+  <img width="420" height="275" src="https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/MainFSM.png">
 </p>
 <p align="center">
   <img width="840" height="438" src="https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/addtimeFSM.png">
