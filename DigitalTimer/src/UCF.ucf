@@ -1,0 +1,42 @@
+# Clock 12 MHz
+  NET "clk"                  LOC = P129  | IOSTANDARD = LVTTL | PERIOD = 12MHz;
+  
+####################################################################################################
+#                               Seven Segment Display
+####################################################################################################
+
+    NET "SevenSD[7]"    LOC = P117  | IOSTANDARD = LVTTL | DRIVE = 8;
+    NET "SevenSD[6]"    LOC = P116  | IOSTANDARD = LVTTL | DRIVE = 8;
+    NET "SevenSD[5]"    LOC = P115  | IOSTANDARD = LVTTL | DRIVE = 8;
+    NET "SevenSD[4]"    LOC = P113  | IOSTANDARD = LVTTL | DRIVE = 8;
+    NET "SevenSD[3]"    LOC = P112  | IOSTANDARD = LVTTL | DRIVE = 8;
+    NET "SevenSD[2]"    LOC = P111  | IOSTANDARD = LVTTL | DRIVE = 8;
+    NET "SevenSD[1]"    LOC = P110  | IOSTANDARD = LVTTL | DRIVE = 8;
+    NET "SevenSD[0]"    LOC = P114  | IOSTANDARD = LVTTL | DRIVE = 8;
+
+    NET "Enable[2]"          LOC = P124  | IOSTANDARD = LVTTL | DRIVE = 8;
+    NET "Enable[1]"          LOC = P121  | IOSTANDARD = LVTTL | DRIVE = 8;
+    NET "Enable[0]"          LOC = P120  | IOSTANDARD = LVTTL | DRIVE = 8;
+
+####################################################################################################
+#                                       LED
+####################################################################################################
+
+    NET "LED[7]"             LOC = P46   | IOSTANDARD = LVTTL | SLEW = FAST | DRIVE = 8;
+    NET "LED[6]"             LOC = P47   | IOSTANDARD = LVTTL | SLEW = FAST | DRIVE = 8;
+    NET "LED[5]"             LOC = P48   | IOSTANDARD = LVTTL | SLEW = FAST | DRIVE = 8;
+    NET "LED[4]"             LOC = P49   | IOSTANDARD = LVTTL | SLEW = FAST | DRIVE = 8;
+    NET "LED[3]"             LOC = P50   | IOSTANDARD = LVTTL | SLEW = FAST | DRIVE = 8;
+    NET "LED[2]"             LOC = P51   | IOSTANDARD = LVTTL | SLEW = FAST | DRIVE = 8;
+    NET "LED[1]"             LOC = P54   | IOSTANDARD = LVTTL | SLEW = FAST | DRIVE = 8;
+    NET "LED[0]"             LOC = P55   | IOSTANDARD = LVTTL | SLEW = FAST | DRIVE = 8;
+	 
+####################################################################################################
+#                                   Switches
+####################################################################################################
+
+    NET "Reset"          LOC = P80   | PULLUP  | IOSTANDARD = LVTTL | SLEW = FAST | DRIVE = 8;
+    NET "Bone"          LOC = P79   | PULLUP  | IOSTANDARD = LVTTL | SLEW = FAST | DRIVE = 8;
+    NET "Bten"          LOC = P78   | PULLUP  | IOSTANDARD = LVTTL | SLEW = FAST | DRIVE = 8;
+    NET "Bmin"          LOC = P77   | PULLUP  | IOSTANDARD = LVTTL | SLEW = FAST | DRIVE = 8;
+    NET "Enter"          LOC = P75   | PULLUP  | IOSTANDARD = LVTTL | SLEW = FAST | DRIVE = 8;
