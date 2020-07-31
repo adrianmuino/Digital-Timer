@@ -22,7 +22,7 @@ You will need to create an account with Xilinx to download the required software
 ![Image of addtimeFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/addtimeFSM.png)
 ![Image of countdownFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/countdownFSM.png)
 ![Image of RotatorFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/RotatorFSM.png)
-![VIDEO](https://www.youtube.com/watch?v=oacW3tYSKds)
+[VIDEO](https://www.youtube.com/watch?v=oacW3tYSKds)
 
 ## Video Demonstration     
 <p align="center">
