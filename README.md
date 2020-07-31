@@ -19,7 +19,10 @@ You will need to create an account with Xilinx to download the required software
 
 ## Video Demonstration
 [![FPGA Digital Timer](https://img.youtube.com/vi/oacW3tYSKds/0.jpg)](https://www.youtube.com/watch?v=oacW3tYSKds)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oacW3tYSKds" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a href="https://www.youtube.com/watch?v=oacW3tYSKds">
+         <img alt="Qries" src="https://img.youtube.com/vi/oacW3tYSKds/0.jpg">
+      </a>
 
 ## Finite State Machine Diagrams
 <p align="center">
