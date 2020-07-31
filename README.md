@@ -1,6 +1,6 @@
 # Digital-Timer
 Embedded custom single-purpose processor implemented in a Xilinx Spartan 3A FPGA fabric using VHDL that controls a digital timer in which the user can set a time between 1 second to 10 minutes.
-
+![Image of RotatorFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/RotatorFSM.png)
 ## Project Objectives
 * Implement a digital timer with three hexadecimal displays
 * Allow user to specify the timer duration from 1 second to 10 minutes using push buttons
@@ -37,7 +37,7 @@ You will need to create an account with Xilinx to download the required software
 <p align="center">
   <img width="700" height="230" src="https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/RotatorFSM.png">
 </p>
-![Image of RotatorFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/RotatorFSM.png)
+
 ![RotatorFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/RotatorFSM.png){:class="img-responsive"}
 ![RotatorFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/RotatorFSM.png){:height="50%" width="50%"}
 ![RotatorFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/RotatorFSM.png){:height="700px" width="400px"}
