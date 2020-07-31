@@ -19,6 +19,9 @@ You will need to create an account with Xilinx to download the required software
 
 ## Video Demonstration
 [![FPGA Digital Timer](https://img.youtube.com/vi/oacW3tYSKds/0.jpg)](https://www.youtube.com/watch?v=oacW3tYSKds)
+<p align="center">
+  <img width="460" height="300" src="https://img.youtube.com/vi/oacW3tYSKds/0.jpg">
+</p>
 
 ## Finite State Machine Diagrams
 ![Image of MainFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/MainFSM.png)
