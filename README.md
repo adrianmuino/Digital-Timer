@@ -18,7 +18,7 @@ You will need to create an account with Xilinx to download the required software
 * [Elbert V2 Drivers](https://numato.com/wp-content/uploads/2019/06/numatocdcdriver.zip)
 
 ## Finite State Machine Diagrams
-![Image of MainFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/MainFSM.png)
+![Image of MainFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/MainFSM.png =250x250)
 ![Image of addtimeFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/addtimeFSM.png)
 ![Image of countdownFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/countdownFSM.png)
 ![Image of RotatorFSM](https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/RotatorFSM.png)
