@@ -20,7 +20,7 @@ You will need to create an account with Xilinx to download the required software
 ## Video Demonstration     
 <p align="center">
   <a href="https://www.youtube.com/watch?v=oacW3tYSKds">
-         <img background-size=contain width="960" height="540" alt="FPGA Digital Timer" src="https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/Digital%20Timer%20On%20FPGA.png">
+         <img width="960" height="540" background-size=contain alt="FPGA Digital Timer" src="https://github.com/adrianmuino/Digital-Timer/blob/master/DigitalTimer/img/Digital%20Timer%20On%20FPGA.png">
   </a>
 </p>
 
