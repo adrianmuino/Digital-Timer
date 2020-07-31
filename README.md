@@ -16,3 +16,6 @@ _**Windows 10** is the only supported operating system to implement this design.
 You will need to create an account with Xilinx to download the required software to replicate this project. Creating an account with Xilinx is **free**_.
 * [Xilinx ISE 14.7 Design Suite](https://www.xilinx.com/member/forms/download/xef.html?filename=Xilinx_ISE_DS_14.7_1015_1.tar)
 * [Elbert V2 Drivers](https://numato.com/wp-content/uploads/2019/06/numatocdcdriver.zip)
+
+## Video Demonstration
+[![FPGA Digital Timer](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=oacW3tYSKds)
